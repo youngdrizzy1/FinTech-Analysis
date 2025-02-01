@@ -134,4 +134,16 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
 
   ![14](https://github.com/user-attachments/assets/9f02b6b9-9ab9-435d-874c-36d6bfcd927c)
 
-### 14. 
+### 14. Financial Literacy and Fintech Usage
+- Young Urban Professionals have the highest number of fintech users (80K), with a majority having high financial literacy (56K) and medium literacy (24K).
+- Urban Professionals have the same number of highly literate users (56K) but fewer medium-literate users (14K), totaling 70K.
+- Small Business Owners have 30K users, with a more balanced split among financial literacy levels: 15K medium, 9K low, and 6K high.
+- Rural Users have the lowest fintech usage (20K), with most having low financial literacy (16K) and very few having medium literacy (4K).
+
+  ![15](https://github.com/user-attachments/assets/0d0721f2-292c-4970-95f4-dccdf4143f3b)
+
+### 15. Transaction Volume
+- Young Urban Professionals conduct the highest transaction volume at 80K.
+- Urban Professionals follow with 70K transactions.
+- Small Business Owners account for 30K transactions.
+- Rural Users contribute the least, with only 20K transactions.
