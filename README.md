@@ -111,3 +111,27 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
 - Micro-Lending (20K users) and Blockchain (13K users) have significantly fewer users, suggesting lower adoption.
 
   ![10](https://github.com/user-attachments/assets/0e6d76fa-65c4-411f-9a10-17a955c9abff)
+
+### 11. Fintech Product Familiarity by Users
+- Digital payments are the most well-known, with 43K experts and 25K novice users.
+- Mobile banking has the highest novice user base (49K), indicating high adoption among beginners.
+- Blockchain has the lowest user familiarity (6K experts, 1K novices).
+
+  ![11](https://github.com/user-attachments/assets/348f7946-ab82-4165-89f8-46e68438f81c)
+
+### 12. Customer Satisfaction Levels
+- Young urban professionals report the highest satisfaction (79.99% high, 20.01% moderate).
+- Urban professionals also show high satisfaction (70.22% high).
+- Small business owners have moderate satisfaction (49.72%), with 20.07% low satisfaction.
+- Rural users report the lowest satisfaction (69.93% low satisfaction).
+
+  ![13](https://github.com/user-attachments/assets/de110582-de4a-4eb8-84a3-0fd5fa6a59ea)
+
+### 13. Fintech Companies and Their Products
+- Digital payments and mobile banking are the most common fintech offerings.
+- Blockchain-based companies (Binance, Luno, Roqqu, Flutterwave) are fewer in number.
+- Micro-lending is a niche market with only a few players.
+
+  ![14](https://github.com/user-attachments/assets/9f02b6b9-9ab9-435d-874c-36d6bfcd927c)
+
+### 14. 
