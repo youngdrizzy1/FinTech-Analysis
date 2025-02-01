@@ -53,3 +53,9 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
 
   ![1](https://github.com/user-attachments/assets/1e2d587b-4717-4287-8e2a-1ce9a12005c0)
 
+### 2. Age Group by Number of FinTech Users
+- Young Adults (94K users) form the largest segment of FinTech users.
+- Adults (71K users) are the second-largest group.
+- Middle-Aged (21K users) and Aged (14K users) have significantly lower adoption.
+
+  ![2](https://github.com/user-attachments/assets/b2aa1798-5fb1-4096-a9a4-93dfe7c16779)
