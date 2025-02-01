@@ -1,6 +1,10 @@
 # FINTECH ANALYSIS
 
 ## Table of Content
+- [Project Overview](#Project-Overview)
+- [Tools](#Tools)
+- [Workflow](#Workflow)
+- [Insights](#Insights)
 
 ## Project Overview
 This project analyzes Nigeria’s FinTech market to provide data-driven insights for a startup looking to refine its product offerings, pricing strategy, target customer segmentation, and marketing approach. The goal is to understand user preferences, financial behavior, and economic status to help the startup optimize its services and reach the right audience effectively.
@@ -39,3 +43,12 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
  - Service Preferences (Mobile App, Web Platform, or Agent Banking)
 
 ### Data Analysis & Visualization
+- Visualized trends and patterns using line charts, bar charts, pie chart etc.
+
+## Insights
+### 1. Financial Literacy Level & Service Preference
+- Low: 72.98% rely on Agent Banking, showing dependence on intermediaries.
+- Medium: More balanced use of Mobile Apps (37.31%) and Web Platforms (27.84%).
+- High: More self-reliant, with 51.91% using Mobile Apps and 30.09% using Web Platforms.
+
+ ![1](https://github.com/user-attachments/assets/419ffe23-9248-4668-b124-94988df7294b)
