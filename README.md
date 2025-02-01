@@ -5,6 +5,7 @@
 - [Tools](#Tools)
 - [Workflow](#Workflow)
 - [Insights](#Insights)
+- [Recommendations](#Recommendations)
 
 ## Project Overview
 This project analyzes Nigeria’s FinTech market to provide data-driven insights for a startup looking to refine its product offerings, pricing strategy, target customer segmentation, and marketing approach. The goal is to understand user preferences, financial behavior, and economic status to help the startup optimize its services and reach the right audience effectively.
@@ -147,3 +148,16 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
 - Urban Professionals follow with 70K transactions.
 - Small Business Owners account for 30K transactions.
 - Rural Users contribute the least, with only 20K transactions.
+
+  ![14](https://github.com/user-attachments/assets/9a0585a5-566e-41e2-b3cc-bfd6fc0aaeaa)
+
+## Recommendations
+- Product Focus: Prioritize Digital Payments & Mobile Banking (most preferred), expand Micro-Lending with better awareness, and promote Blockchain education to increase familiarity.
+
+- Service Delivery: Strengthen Agent Banking for low-literacy users, enhance Mobile & Web platforms for medium- and high-literacy users.
+
+- Customer Targeting: Focus on Young Urban Professionals & Urban Professionals (largest user base), introduce business-specific solutions for SMEs, and boost financial literacy campaigns for rural users.
+
+- Pricing Strategies: Offer loyalty rewards & cashback, implement a hybrid competitive & value-based pricing model, and introduce tiered subscription services for premium users.
+
+- Marketing & Engagement: Use social media for urban professionals, localized campaigns for rural users, and referral incentives to drive adoption.
