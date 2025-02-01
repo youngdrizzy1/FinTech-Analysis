@@ -94,4 +94,20 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
 
   ![7](https://github.com/user-attachments/assets/5006ecca-3bfd-4bc3-90c8-4566e2862a4b)
 
-### 8. 
+### 8. Gaps in Value-Based Pricing
+- Several FinTech companies use a value-based pricing strategy, but their user benefits vary.
+- Companies like CowryWise and PiggyVest offer free tools, while FairMoney provides cashback.
+
+  ![8](https://github.com/user-attachments/assets/0857a3e0-4654-4655-98a7-193fd912557b)
+
+### 9. Distribution of Pricing Strategies
+- The majority (90.45%) of FinTech companies use Competitive Pricing, while only 9.55% use Value-Based Pricing.
+- This suggests that most companies prioritize market competition over customer-perceived value.
+
+  ![9](https://github.com/user-attachments/assets/1d475435-25a9-41b6-b593-fc9f7c97c070)
+
+### 10. Preferred FinTech Products by Users
+- Digital Payments (85K users) and Mobile Banking (82K users) are the most preferred FinTech products.
+- Micro-Lending (20K users) and Blockchain (13K users) have significantly fewer users, suggesting lower adoption.
+
+  ![10](https://github.com/user-attachments/assets/0e6d76fa-65c4-411f-9a10-17a955c9abff)
