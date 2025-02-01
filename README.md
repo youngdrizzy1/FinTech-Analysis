@@ -51,4 +51,5 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
 - Medium: More balanced use of Mobile Apps (37.31%) and Web Platforms (27.84%).
 - High: More self-reliant, with 51.91% using Mobile Apps and 30.09% using Web Platforms.
 
- ![1](https://github.com/user-attachments/assets/419ffe23-9248-4668-b124-94988df7294b)
+  ![1](https://github.com/user-attachments/assets/1e2d587b-4717-4287-8e2a-1ce9a12005c0)
+
