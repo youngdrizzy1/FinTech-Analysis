@@ -80,3 +80,18 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
 
   ![5](https://github.com/user-attachments/assets/d9b6b757-dc7a-40aa-829c-27ee37d149a4)
 
+### 6. Income Level by Number of FinTech Users
+- High-income users: 50.40% are Urban Professionals, while 49.60% are Young Urban Professionals.
+- Middle-income users: 42.70% are Young Urban Professionals, followed by 27.92% Urban Professionals, 24.06% Small Business Owners, and 5.32% Rural Users.
+- Low-income users: 57.02% are Rural Users, and 42.98% are Small Business Owners.
+
+  ![6](https://github.com/user-attachments/assets/1bab4002-d0f1-4506-9a23-e3c566917c23)
+
+### 7. Gaps in Competitive Pricing
+- Many FinTech companies offer competitive pricing, but only a few provide user benefits.
+- Binance offers Trading Discounts, Kuda has Loyalty Rewards, while OPay and Roqqu provide Cashback.
+- Several companies (Flutterwave, Interswitch, Luno, Moniepoint, Paystack) offer no additional user benefits.
+
+  ![7](https://github.com/user-attachments/assets/5006ecca-3bfd-4bc3-90c8-4566e2862a4b)
+
+### 8. 
