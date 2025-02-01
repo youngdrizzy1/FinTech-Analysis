@@ -59,3 +59,24 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
 - Middle-Aged (21K users) and Aged (14K users) have significantly lower adoption.
 
   ![2](https://github.com/user-attachments/assets/b2aa1798-5fb1-4096-a9a4-93dfe7c16779)
+
+### 3. FinTech Users by Target Customers
+- Young Urban Professionals (80K users) form the largest segment of FinTech users.
+- Urban Professionals (70K users) are the second-largest group.
+- Small Business Owners (30K users) and Rural Users (20K users) have significantly lower adoption.
+
+  ![3](https://github.com/user-attachments/assets/9ae15cb5-21e0-45a1-94f3-6f7ebb2afc02)
+
+### 4. Number of FinTech User by Location
+- Urban users (170.94K, 85.47%) form the overwhelming majority of FinTech users.
+- Rural users (29.06K, 14.53%) have significantly lower adoption.
+
+  ![4](https://github.com/user-attachments/assets/234c28d8-e02f-4f52-9169-9f081049ed97)
+
+### 5. Financial Literacy Level & User Base
+- High literacy: 118K users, the largest segment.
+- Medium literacy: 57K users, showing a moderate engagement.
+- Low literacy: 25K users, the smallest group.
+
+  ![5](https://github.com/user-attachments/assets/d9b6b757-dc7a-40aa-829c-27ee37d149a4)
+
