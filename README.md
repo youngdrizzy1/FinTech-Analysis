@@ -37,9 +37,9 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
 - Dataset Creation (200,000 Rows): Based on survey insights and official statistics, a synthetic dataset was generated using Python (NumPy, Pandas).
 
 - Realistic Data Distributions: Ensured accuracy in:
- - Age Groups (Weighted toward middle-aged users for better representation).
+ - Age Groups.
  - Income Levels & Employment (Aligned with Nigerian economic data).
- - Financial Literacy (Classified as Low, Basic, Intermediate, Advanced, or Expert).
+ - Financial Literacy (Classified as Low, Medium and High).
  - Business Ownership Segments (Young Professionals, Urban Professionals, Small Business Owners, Rural Users).
  - Service Preferences (Mobile App, Web Platform, or Agent Banking)
 
@@ -150,6 +150,59 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
 - Rural Users contribute the least, with only 20K transactions.
 
   ![14](https://github.com/user-attachments/assets/9a0585a5-566e-41e2-b3cc-bfd6fc0aaeaa)
+
+### 16. Fintech Companies Ranked by Number of Users and Pricing Strategy
+- OPay leads with 60K users.
+- Moniepoint follows closely with 47K users.
+- Kuda ranks third with 29K users.
+- Flutterwave (18K) and Paystack (14K) hold mid-tier positions.
+- FairMoney (9K) and PiggyVest (5K) are notable among value-based pricing fintechs.
+- Smaller players like Roqqu and Luno have the lowest user base at 2K each.
+- Competitive Pricing dominates, driving the largest user adoption.
+
+  ![16](https://github.com/user-attachments/assets/0ee1675c-f41a-4fbe-8951-855c4561be73)
+
+### 17. Fintech Products and Their Fee Structures
+- Digital Payments leads in the number of companies, with 86K using this product.
+ - 54K companies use a Flat Fee model.
+ - 32K use a Percentage Fee model.
+- Mobile Banking follows with 81K companies.
+ - 45K use a Flat Fee model.
+ - 29K use a Percentage Fee model.
+ - 7K use a Subscription-Based model.
+- Micro-Lending has 20K companies, all using a Flat Fee model.
+- Blockchain has 11K companies, all using a Percentage Fee model.
+- Flat Fee models dominate across fintech categories.
+
+  ![17](https://github.com/user-attachments/assets/7bde0ef1-d057-416b-84de-7c4d3cf80484)
+
+### 18. Fintech Users by Service Preference
+- Mobile Apps are the most preferred service with 83K users.
+- Web Platforms attract 54K users.
+- Agent Banking is used by 34K users.
+- Self-Service is the least preferred, with 29K users.
+- Digital-first channels (Mobile & Web) dominate user preferences.
+
+  ![18](https://github.com/user-attachments/assets/fa6bd5fe-9bd4-4d21-a460-2ea120a59f87)
+
+### 19. Fintech Users by Demographics and Service Preference
+- Young Urban Professionals (80K)
+ - Prefer Mobile Apps (48K users)
+ - Web Platforms (24K users)
+ - Agent Banking (8K users)
+- Urban Professionals (70K)
+ - Mobile Apps (35K users)
+ - Web Platforms (21K users)
+ - Self-Service (14K users)
+- Small Business Owners (27K)
+ - Agent Banking (18K users)
+ - Web Platforms (9K users)
+- Rural Users (20K)
+ - Agent Banking (16K users)
+ - Self-Service (4K users)
+- Young and Urban Professionals drive digital adoption, while rural users rely on agent banking.
+
+  ![19](https://github.com/user-attachments/assets/02fbc7ee-a1c8-464c-9bfe-14eb774bea5a)
 
 ## Recommendations
 - Product Focus: Prioritize Digital Payments & Mobile Banking (most preferred), expand Micro-Lending with better awareness, and promote Blockchain education to increase familiarity.
