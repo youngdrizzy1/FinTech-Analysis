@@ -48,27 +48,27 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
 - Visualized trends and patterns using column charts, bar charts, pie chart etc.
 
 ## Insights
-### 1. Fintech Companies and Their Products
+### 1. Companies and Their Products
 - Digital payments and mobile banking are the most common fintech offerings.
 - Blockchain-based companies (Binance, Luno, Roqqu, Flutterwave) are fewer in number.
 - Micro-lending is a niche market with only a few players.
 
 ![1](https://github.com/user-attachments/assets/4b2d43da-a087-4837-96a7-c8c4a04d41e0)
 
-### 2. Preferred FinTech Products by Users
+### 2. Preferred Products by Users
 - Digital Payments (85K users) and Mobile Banking (82K users) are the most preferred FinTech products.
 - Micro-Lending (20K users) and Blockchain (13K users) have significantly fewer users, suggesting lower adoption.
 
 ![2](https://github.com/user-attachments/assets/d5bb1938-01d3-4085-b18b-bd675cadd2ea)
 
-### 3. Fintech Product Familiarity by Users
+### 3. Product Familiarity by Users
 - Digital payments are the most well-known, with 43K experts and 25K novice users.
 - Mobile banking has the highest novice user base (49K), indicating high adoption among beginners.
 - Blockchain has the lowest user familiarity (6K experts, 1K novices).
 
 ![3](https://github.com/user-attachments/assets/60397a20-05f3-49bc-807d-ea5abcb78d79)
 
-### 4. Fintech Companies Ranked by Number of Users and Pricing Strategy
+### 4. Companies Ranked by Number of Users and Pricing Strategy
 - OPay leads with 60K users.
 - Moniepoint follows closely with 47K users.
 - Kuda ranks third with 29K users.
@@ -85,7 +85,7 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
 
 ![5](https://github.com/user-attachments/assets/95cbe530-71eb-4399-82bb-aed79f8dcbad)
 
-### 6. Fintech Products and Their Fee Structures
+### 6. Products and Their Fee Structures
 - Digital Payments leads in the number of companies, with 86K using this product.
  - 54K companies use a Flat Fee model.
  - 32K use a Percentage Fee model.
@@ -112,14 +112,14 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
 
 ![8](https://github.com/user-attachments/assets/a015a3f5-9051-4877-9e1c-70677c415ebd)
 
-### 9. FinTech Users by Target Customers
+### 9. Users by Target Customers
 - Young Urban Professionals (80K users) form the largest segment of FinTech users.
 - Urban Professionals (70K users) are the second-largest group.
 - Small Business Owners (30K users) and Rural Users (20K users) have significantly lower adoption.
 
 ![9](https://github.com/user-attachments/assets/fa57e3d4-3cf2-4994-82d2-e4b31df5ab3c)
 
-### 10. Financial Literacy and Fintech Usage
+### 10. Financial Literacy and Usage
 - Young Urban Professionals have the highest number of fintech users (80K), with a majority having high financial literacy (56K) and medium literacy (24K).
 - Urban Professionals have the same number of highly literate users (56K) but fewer medium-literate users (14K), totaling 70K.
 - Small Business Owners have 30K users, with a more balanced split among financial literacy levels: 15K medium, 9K low, and 6K high.
@@ -127,7 +127,7 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
 
 ![10](https://github.com/user-attachments/assets/67a23c8b-466f-493a-b5a0-3b25ca2499d2)
 
-### 11. Fintech Users by Service Preference
+### 11. Users by Service Preference
 - Mobile Apps are the most preferred service with 83K users.
 - Web Platforms attract 54K users.
 - Agent Banking is used by 34K users.
@@ -136,7 +136,7 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
 
 ![11](https://github.com/user-attachments/assets/6a31c9d0-c02e-4bd1-81a7-176763152848)
 
-### 12. Fintech Users by Demographics and Service Preference
+### 12. Users and Service Preference
 - Young Urban Professionals (80K)
  - Prefer Mobile Apps (48K users)
  - Web Platforms (24K users)
@@ -155,20 +155,20 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
 
 ![12](https://github.com/user-attachments/assets/3a30ec03-bec3-487b-ab53-3aad063d350e)
 
-### 13. Income Level by Number of FinTech Users
+### 13. Income Level by Number of Users
 - High-income users: 50.40% are Urban Professionals, while 49.60% are Young Urban Professionals.
 - Middle-income users: 42.70% are Young Urban Professionals, followed by 27.92% Urban Professionals, 24.06% Small Business Owners, and 5.32% Rural Users.
 - Low-income users: 57.02% are Rural Users, and 42.98% are Small Business Owners.
 
 ![13](https://github.com/user-attachments/assets/9b028cfe-c02c-412d-921e-fcedfdfbbdb6)
 
-### 14. Number of FinTech User by Location
+### 14. Number of User by Location
 - Urban users (170.94K, 85.47%) form the overwhelming majority of FinTech users.
 - Rural users (29.06K, 14.53%) have significantly lower adoption.
 
 ![14](https://github.com/user-attachments/assets/64de4278-82ad-4c0a-ad05-4f8c1c4a2a96)
 
-### 15. Age Group by Number of FinTech Users
+### 15. Age Group by Number of Users
 - Young Adults (94K users) form the largest segment of FinTech users.
 - Adults (71K users) are the second-largest group.
 - Middle-Aged (21K users) and Aged (14K users) have significantly lower adoption.
