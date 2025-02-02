@@ -15,11 +15,11 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
 - Python (Pandas, NumPy): Data generation and manipulation
 
 ### Data Visualization & Interpretation
-- Power BI: Interactive dashboards for market trends, pricing structures, and customer segmentation.
+- Power BI: Interactive dashboards for pricing structures, and customer segmentation.
 
 ### Research
 - CBN & NBS Reports: Official statistics on financial inclusion, income distribution, and digital finance adoption.
-- Industry Research & FinTech Websites: Insights into services, pricing models, and consumer behavior from platforms like Flutterwave, Paystack, OPay, Kuda, and Carbon.
+- Industry Research & FinTech Websites: Insights into services, pricing models, and consumer behavior from platforms like Flutterwave, Paystack, OPay, Kuda etc.
 
 ## Workflow
 ### Research & Data Collection
@@ -44,7 +44,7 @@ This project analyzes Nigeria’s FinTech market to provide data-driven insights
  - Service Preferences (Mobile App, Web Platform, or Agent Banking)
 
 ### Data Analysis & Visualization
-- Visualized trends and patterns using line charts, bar charts, pie chart etc.
+- Visualized trends and patterns using column charts, bar charts, pie chart etc.
 
 ## Insights
 ### 1. Financial Literacy Level & Service Preference
